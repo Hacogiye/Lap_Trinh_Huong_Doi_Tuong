@@ -1,13 +1,12 @@
 
 package exercise4.pack1;
-
 /**
  *
  * @author Admin
  */
 public class Subject {
-    float diem;
-    int tinchi;
+    public float diem;
+    public int tinchi;
     Subject(){
         diem = 0;
         tinchi = 0;
