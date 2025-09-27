@@ -11,5 +11,5 @@ public class MainClass {
         Department b = new Department(5);
         b.addEmployee(a);
         b.display();
-    
+    }
 }
